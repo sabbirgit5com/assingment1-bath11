@@ -73,6 +73,7 @@ div{
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #5490F5;
+    border-radius: 6px;
     border: none;
 }
 .btns2{
@@ -98,5 +99,140 @@ div{
 .description .p-description{
     background-image: url(../imeges/quote-bg.png);
     background-repeat: no-repeat;
+    padding-top: 28px;
+    color: #0E0E0E;
+}
+
+.mews-imag{
+    border: 5px solid;
+    border-radius: 24px;
+    border: none;
+}
+
+
+.news-hhh{
+    padding-left: 30px;
+}
+.icon-nnn{
+   
+}
+.nnnn-ews{
+    display: flex;
+    background-color: #e7e7e7;
+    border-radius: 24px;
+    width: 80%;
+    right-width: 50%;
+    box-shadow: none;
+    align-items: center;
     
+}
+.btnsx{
+    background-color: #006A50;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    color: #FFFF;
+}
+.ppp{
+    color: #0E0E0E;
+}
+.news-head{
+    font-weight: 700;
+}
+.hhh{
+    font-weight: 600;
+}
+
+.fff-ggg{
+    float: inline-end;
+    position: relative;
+    height: 300px;
+    border: 1px solid;
+    
+}
+.fff-ddd{
+   border:  solid;
+   border-radius: 24px;
+   border: none;
+   
+}
+.kkk-lll{
+    text-align: center;
+}
+.hhh-111{
+    text-align: center;
+}
+.donate-ddd{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+.box-content{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    gap: 50px;
+}
+.box4{
+    border: 1px solid black;
+    background-color:#e7e7e7;
+    gap: 50px;
+  padding: 30px;
+  border-radius: 8px;
+  border: none;
+
+}
+.box5{
+    border: 1px solid black;
+    background-color: #C6E4D6;
+    gap: 40px;
+    padding: 30px;
+    border-radius: 8px;
+    border: none;
+}
+.box6{
+    border: 1px solid black;
+    background-color: #e7e7e7;
+    gap: 50px;
+    padding: 30px;
+    border-radius: 8px;
+    border: none;
+}
+.box7{
+    border: 1px solid black;
+    background-color: #e7e7e7;
+    gap: 50px;
+    padding: 30px;
+    border-radius: 8px;
+    border: none;
+}
+.center-ccc{
+    text-align: center;
+    box-shadow: 0px 15px 20px rgba(255, 255, 255, 0.6);
+   
+    
+}
+.input-size{
+    padding-top: 32px;
+    padding-right: 70px;
+    text-align: center;
+    font-size:xx-large;
+    color: #e7e7e7;
+    border: none;
+    background-color: #e7e7e7;
+}
+.btnx9{
+    display: block;
+    margin: auto;
+    background-color: #006A50;
+    color: #FFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px ;
+    padding-right: 15px ;
+    border: none;
+    border-radius: 5px;
+}
+.sss-mmm{
+    color: rgb(53, 51, 51);
 }

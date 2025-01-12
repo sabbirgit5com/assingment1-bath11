@@ -9,9 +9,11 @@ div{
     width: 90%;
     background-color: #C6E4D6;
     width: 71%;
-    width: right 15%  left 30%;
+    width: right 30%  left 15%;
     padding-bottom: 35px;
     border-radius: 13px;
+    align-items: center;
+    
 
 }
  .griting0{
@@ -180,6 +182,7 @@ div{
   padding: 30px;
   border-radius: 8px;
   border: none;
+  cursor:pointer;
 
 }
 .box5{
@@ -189,6 +192,7 @@ div{
     padding: 30px;
     border-radius: 8px;
     border: none;
+    cursor:pointer;
 }
 .box6{
     border: 1px solid black;
@@ -197,6 +201,7 @@ div{
     padding: 30px;
     border-radius: 8px;
     border: none;
+    cursor:pointer;
 }
 .box7{
     border: 1px solid black;
@@ -205,6 +210,7 @@ div{
     padding: 30px;
     border-radius: 8px;
     border: none;
+    cursor:pointer;
 }
 .center-ccc{
     text-align: center;
@@ -235,4 +241,23 @@ div{
 }
 .sss-mmm{
     color: rgb(53, 51, 51);
+}
+.newas{
+    text-align: center;
+}
+.input-sss{
+    padding-top: 32px;
+    padding-right: 70px;   
+    font-size:x-large;
+    border: none;
+    background-color: #e7e7e7;
+    color: #e7e7e7;
+}
+.btnf5{
+    border-radius: 0px 10px 10px 0px;
+    padding: 26px 10px 0px 10px;
+    background-color: #006A50;
+    color: #FFFF;
+    font-weight: 700;
+    font-size: xx-large
 }
